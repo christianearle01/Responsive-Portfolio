@@ -26,7 +26,7 @@ header{
     margin: 3px;
 }
 .img_photo{
-    background: url("photo_of_me.jpg");
+    background: url("img/photo_of_me.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -85,21 +85,21 @@ header{
         margin: 5px 0px 5px 5px
     }
     .img_la-mode{
-        background: url("lamode.png");
+        background: url("img/lamode.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 150px;
     }
     .img_fam{
-        background: url("familycontacts.png");
+        background: url("img/familycontacts.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 150px;
     }
     .img_fiveEleven{
-        background: url("fiveEleven.png");
+        background: url("img/fiveEleven.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
